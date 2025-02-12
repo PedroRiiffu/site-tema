@@ -112,6 +112,11 @@ textarea{
     text-decoration: none;
 }
 
+.social li img{
+    width: 44px;
+    height: 44px;
+}
+
 form button{
     background-color: rgb(255, 190, 111);
     color: brown;
@@ -131,5 +136,7 @@ input:focus, textarea:focus{
 footer{
     background-color: brown;
     color: rgb(255, 190, 111);
-    padding: 16px 0;
+    padding: 16px; 
+    width: 44;
+    height: 44;
 }
